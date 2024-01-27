@@ -6,5 +6,5 @@ save tab: saves the current tab url in google extension
 
 save input: in case you want to save a diffrent url on your own
 
-![Capture d'écran 2024-01-27 094524](https://github.com/sarramouadeb/google-extension/assets/143343635/165a5e60-509a-441a-b67f-a38183936b27)
+![Capture d'écran 2024-01-27 094524](https://github.com/sarramouadeb/google-extension/assets/143343635/30eae5a7-8b92-4a3e-8263-3f423ba113c0)
 
