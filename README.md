@@ -1,6 +1,6 @@
 google-extension
 
-delete button: double click and the local storage is deleted
+delete button: double click and the local storage is deleted                                                                                         
 
 save tab: saves the current tab url in google extension
 
