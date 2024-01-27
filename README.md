@@ -6,4 +6,5 @@ save tab: saves the current tab url in google extension
 
 save input: in case you want to save a diffrent url on your own
 
-![(3) Sarra Mouadeb _ LinkedIn - Google Chrome 27_Jan_24 9_36_56 AM](https://github.com/sarramouadeb/google-extension/assets/143343635/648c6774-9d6c-44c9-968e-d541617fe172)
+![Capture d'écran 2024-01-27 094524](https://github.com/sarramouadeb/google-extension/assets/143343635/165a5e60-509a-441a-b67f-a38183936b27)
+
